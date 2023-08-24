@@ -35,7 +35,7 @@ O projeto consiste em um site para lista de tarefas. A estrutura do projeto incl
 
 
 ## ⚠️ Sobre o Projeto
-Neste projeto, criamos uma página web simples que exibee uma lista de tarefas. Utilizamos a técnica de agrupamento de seletores CSS para estilizar a lista de tarefas de maneira consistente. Os objetivos específicos foram:
+Neste projeto, criamos uma página web simples que exibe uma lista de tarefas. Utilizamos a técnica de agrupamento de seletores CSS para estilizar a lista de tarefas de maneira consistente. Os objetivos específicos foram:
 <ul>
   <li>Criar uma estruturaaa HTML básica para a lista de tarefas</li>
   <li>Aplicar estilos usando agrupamento de seletores CSS.</li>
